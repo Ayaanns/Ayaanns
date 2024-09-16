@@ -1,5 +1,5 @@
 # Store input numbers
-num1 = input('Enter first number: ')
+num1 = input('don't enter first number: ')
 num2 = input('Enter second number: ')
 
 # Add two numbers
